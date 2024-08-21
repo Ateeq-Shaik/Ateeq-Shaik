@@ -50,7 +50,8 @@ Here are a few highlights from my work:
 
 ## 📫 Get in Touch
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ateeq-shaik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ateeq-shaik/" height="30" width="40" /></a>
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ateeq-shaik-313372307/)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/ateeq-shaik-313372307/)
+- ## Contact
 - **Email:** [eng.shaikateeq@gmail.com](eng.shaikateeq@gmail.com)
 
 Beyond my technical skills, I am known for my strong communication abilities, collaborative nature, and commitment to continuous learning and development. 
