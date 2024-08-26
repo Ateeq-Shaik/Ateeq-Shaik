@@ -36,8 +36,8 @@ I'm enthusiastic about applying these skills to real-world scenarios and contrib
 - **[Certified Data Analyst](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_WvWM2eQAhZ9MPjw4E_1721738500698_completion_certificate.pdf)** - Issued by Accenture North America - Data Analytics and Visualization Job Simulationon July 2024
 - **[Power BI](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_WvWM2eQAhZ9MPjw4E_1724047205820_completion_certificate.pdf)** - Issued by PwC Switzerland - Power BI Job Simulation on August 2024
 
-
-
+## 🚀 Projects
+Here are a few Projects:https://drive.google.com/drive/folders/168jiqYakstfPvhtQdiK3vpbEPVRI67Fn?usp=sharing
 ## 🚀 Projects
 Here are a few highlights from my work:
 - **[Global Super Store](#):** Analyzed sales data to identify key trends, optimize inventory management, and improve the marketing strategy for a global retail chain.
