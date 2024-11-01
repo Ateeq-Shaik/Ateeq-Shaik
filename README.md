@@ -2,10 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ateeq-shaik&label=Profile%20views&color=0e75b6&style=flat" alt="ateeq-shaik" /> </p>
 
-# 👋 Hi there, I'm Shaik Ateeq From Hyderabad
+# 👋 Hi there, I'm Shaik Ateeq as a Data Analyst From Hyderabad
        Data Analyst | Business Analyst | Python | Excel | Power BI | SQL || Gen Ai || Prompt Engineering
 
-I'm a **Data Analyst & Business Analyst** with a passion for turning data into actionable insights. I specialize in using Python, SQL, Excel, Looker Studio and Power BI to analyze complex data sets and optimize business processes.
+I'm a **Data Analyst & Business Analyst** with a passion for turning data into actionable insights. Analyst focused on data analysis, visualization, and integrations with regards to Generative AI.
+Expert ability to apply advanced analytical tools and techniques towards actionable insights from
+complex datasets. Strong SQL, Python, Tableau, Power BI experience with a general understanding of
+Generative AI applications in improving data processing and predictive modeling. Able to motivate
+cross-functional teams and help to understand the business requirements and drive data-driven decisions
+with complete commitment to process efficiency while ensuring high-quality reports with assurance of
+timely compliance with proper data governance standards.
 
 
 <img align="right" alt="Coding" width="450" src="https://cdn.starrocks.io/static/github/community.gif">
