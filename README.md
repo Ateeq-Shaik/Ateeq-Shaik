@@ -20,7 +20,7 @@ I'm a **Data Analyst & Business Analyst** with a passion for turning data into a
 - 🌱 I’m currently learning **Gen Ai |Prompt Engineering**
 - 👯 I’m looking for Open to work
 
-- 📄 **Resume** [pdf][https://drive.google.com/file/d/1N2fdDK8_OEB-7XxsbspDaplQQXMkJq9R/view?usp=sharing] (https://drive.google.com/file/d/1V7RmIQiko0Li2axztmBFaliuy8RvD17T/view?usp=sharing)
+- 📄 **Resume** [pdf] (https://drive.google.com/file/d/1V7RmIQiko0Li2axztmBFaliuy8RvD17T/view?usp=sharing)
 
 <h3 align="left">Internship:</h3> Recently Completed  Data Analyst internship from Full Stack academy gachibowli 4 months 2024/04/21 - 2024/07/31.
 
